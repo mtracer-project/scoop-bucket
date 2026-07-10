@@ -1,0 +1,22 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mtrace-project/mtrace/releases/download/v0.1.2/mtrace_0.1.2_Windows_x86_64.zip",
+            "bin": [
+                "mtrace.exe"
+            ],
+            "hash": "6a8e32b17bbe6b85873ba1cfa1ef59fb64df117af2278ef2ac81e0f4e56172f9"
+        },
+        "arm64": {
+            "url": "https://github.com/mtrace-project/mtrace/releases/download/v0.1.2/mtrace_0.1.2_Windows_arm64.zip",
+            "bin": [
+                "mtrace.exe"
+            ],
+            "hash": "d92163ee900d1a494e0f36b6b47f322ffe90fd2cccc4bc5889b4dffa3ff1e233"
+        }
+    },
+    "homepage": "https://mtrace-project.github.io",
+    "license": "AGPL-3.0",
+    "description": "mtrace is a CLI tool designed to facilitate testing through trace validation."
+}
