@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mtracer-project/mtracer/releases/download/v0.2.0/mtracer_0.2.0_Windows_x86_64.zip",
+            "url": "https://github.com/mtracer-project/mtracer/releases/download/v0.2.1/mtracer_0.2.1_Windows_x86_64.zip",
             "bin": [
                 "mtracer.exe"
             ],
-            "hash": "16ebaa63ee6b8dcfd2737d83391fe5bd74e38f6a414a2c6145e494bf64bde042"
+            "hash": "a55d99307329e847d0c0cc646c8192f0916810e7a4b3c56d4c1fa8aff409f069"
         },
         "arm64": {
-            "url": "https://github.com/mtracer-project/mtracer/releases/download/v0.2.0/mtracer_0.2.0_Windows_arm64.zip",
+            "url": "https://github.com/mtracer-project/mtracer/releases/download/v0.2.1/mtracer_0.2.1_Windows_arm64.zip",
             "bin": [
                 "mtracer.exe"
             ],
-            "hash": "af3c5068d70ddfad7a34088f38a3cd27733c851ae012d657017c0348b4b63c69"
+            "hash": "192b57eb2ed840aef0821f50be48f107dd32d942c9fe424a60bdfdd6a0c1e738"
         }
     },
     "homepage": "https://mtracer-project.github.io",
