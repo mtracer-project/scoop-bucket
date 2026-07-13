@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mtracer-project/mtracer/releases/download/v0.2.0/mtracer_0.2.0_Windows_x86_64.zip",
+            "bin": [
+                "mtracer.exe"
+            ],
+            "hash": "16ebaa63ee6b8dcfd2737d83391fe5bd74e38f6a414a2c6145e494bf64bde042"
+        },
+        "arm64": {
+            "url": "https://github.com/mtracer-project/mtracer/releases/download/v0.2.0/mtracer_0.2.0_Windows_arm64.zip",
+            "bin": [
+                "mtracer.exe"
+            ],
+            "hash": "af3c5068d70ddfad7a34088f38a3cd27733c851ae012d657017c0348b4b63c69"
+        }
+    },
+    "homepage": "https://mtracer-project.github.io",
+    "license": "AGPL-3.0",
+    "description": "mtracer is a CLI tool designed to facilitate testing through trace validation."
+}
